@@ -1,0 +1,12 @@
+{
+    "name": "pilot114/words_network",
+    "authors": [
+        {
+            "name": "Oleg Chulkov",
+            "email": "pilot114@bk.ru"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^0.17.0"
+    }
+}
